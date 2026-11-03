@@ -1,4 +1,4 @@
-<p align="center"><img src="https://snowkit.io/assets/snowkit-512.png" width="96" height="96" alt="Snowkit"></p>
+<p align="center"><img src="https://snowkit.io/assets/snowkit-512.png?v=2" width="96" height="96" alt="Snowkit"></p>
 
 # Snowkit
 
